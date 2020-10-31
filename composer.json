@@ -18,7 +18,7 @@
         "phpstan/phpstan-doctrine": "^0.12.22",
         "phpstan/phpstan-phpunit": "^0.12.16",
         "phpstan/phpstan-strict-rules": "^0.12.5",
-        "phpstan/phpstan-symfony": "^0.12.10",
+        "phpstan/phpstan-symfony": "^0.12.11",
         "sclable/xml-lint": "^0.3.0",
         "sebastian/phpcpd": "^6.0",
         "sensiolabs/security-checker": "^6.0",
