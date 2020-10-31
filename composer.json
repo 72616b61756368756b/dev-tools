@@ -24,7 +24,6 @@
         "sensiolabs/security-checker": "^6.0",
         "squizlabs/php_codesniffer": "^3.5"
     },
-    "minimum-stability": "dev",
     "prefer-stable": true,
     "config": {
         "optimize-autoloader": true,
@@ -35,10 +34,6 @@
             "includes": [
                 "extension.neon"
             ]
-        },
-        "symfony": {
-            "allow-contrib": false,
-            "require": "4.4.16"
         }
     }
 }
