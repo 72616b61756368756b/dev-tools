@@ -1,0 +1,8 @@
+/*.cache
+/.php_cs
+/.php_cs.cache
+.phpunit
+.phpunit.result.cache
+/phpunit.xml
+/vendor/
+composer.phar
